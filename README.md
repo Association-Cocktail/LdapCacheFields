@@ -1,3 +1,6 @@
+---------------------------------------------------------------------------------------------------
+### Please follow now [official Mantis Plugin](https://github.com/mantisbt-plugins/LdapCacheFields)
+---------------------------------------------------------------------------------------------------
 # LDAP Cache Fields plugin for MantisBT
 
 Copyright (c) 2020 Association Cocktail, Marc-Antoine TURBET-DELOF
